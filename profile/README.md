@@ -10,10 +10,11 @@ Tools and methodologies from real engagements, shared openly.
 
 | Repo | What it does |
 |---|---|
+| [strategy-please](https://github.com/yesplease-studio/strategy-please) | An AI-native workshop recommendation engine for strategic planning. Maps challenges to the right workshop using a strategic maturity framework. |
 | [prd-please](https://github.com/yesplease-studio/prd-please) | A structured methodology for AI-native product requirements. Write, decompose, validate, and learn from Strategic PRDs — designed for Claude Code. |
 | [sales-please](https://github.com/yesplease-studio/sales-please) | A lightweight, AI-native sales qualification framework for founders and small teams. Built on WORTH. |
 
-Both tools work independently. Use one, use both, or stitch them into your own workflow. Each is designed with Claude as the execution layer: fork the repo, open Claude, start talking.
+All three follow the same pattern: fork it, open Claude Code, start working. Use one, use all, or stitch them into your own workflow.
 
 ## Who's behind this
 
