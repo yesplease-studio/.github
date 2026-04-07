@@ -2,7 +2,7 @@
 
 Strategic clarity for companies building something real.
 
-Yes Please is a solo consulting practice that helps founders and teams get clear on their positioning, find the right audience, and build a growth strategy they can actually execute. The work spans workshops, fractional engagements, and advisory retainers — all built around structured frameworks and AI-native ways of working.
+Yes Please is a solo consulting practice that helps founders and teams figure out who they are, who they're for, and how to grow. The work spans workshops, fractional engagements, and advisory retainers all built around structured frameworks and AI-native ways of working.
 
 ## Open Work
 
