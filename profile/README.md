@@ -16,8 +16,9 @@ Tools and methodologies from real engagements, shared openly.
 | [voice-please](https://github.com/yesplease-studio/voice-please) | An AI-native framework for defining, encoding, and maintaining a company's voice and language system. Eight dimensions, six skills, AI-ready output. |
 | [design-please](https://github.com/yesplease-studio/design-please) | An AI-native framework for scoping design direction and encoding it for Claude Design or designer handoff. Six dimensions, three skills, paste-ready configs. |
 | [name-please](https://github.com/yesplease-studio/name-please) | An AI-native framework for validating and generating company and product names. Six dimensions, three verdicts, grounded in ICP and voice context. |
+| [messaging-please](https://github.com/yesplease-studio/messaging-please) | An AI-native framework for building messaging architecture grounded in purpose, positioning, and audience context. |
 
-All six follow the same pattern: fork it, open Claude Code, start working. Use one, use all, or stitch them into your own workflow.
+All seven follow the same pattern: fork it, open Claude Code, start working. Use one, use all, or stitch them into your own workflow.
 
 ## Who's behind this
 
